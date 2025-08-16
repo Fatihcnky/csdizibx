@@ -1,0 +1,12 @@
+{
+  "name": "DiziBox Repo",
+  "description": "DiziBox Cloudstream Provider",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "DiziBox",
+      "pluginFile": "src/main/kotlin/com/dizibox/DiziboxProvider.kt",
+      "providerName": "com.dizibox.DiziboxProvider"
+    }
+  ]
+}
